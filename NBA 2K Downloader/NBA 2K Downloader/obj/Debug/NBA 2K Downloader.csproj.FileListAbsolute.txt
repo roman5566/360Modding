@@ -1,0 +1,18 @@
+c:\users\ranbir\documents\visual studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\bin\Debug\NBA 2K Downloader.exe.config
+C:\Users\Ranbir\Documents\Visual Studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA 2K Downloader.csprojResolveAssemblyReference.cache
+C:\Users\Ranbir\Documents\Visual Studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA_2K_Downloader.Form1.resources
+C:\Users\Ranbir\Documents\Visual Studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA_2K_Downloader.Properties.Resources.resources
+C:\Users\Ranbir\Documents\Visual Studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA 2K Downloader.csproj.GenerateResource.Cache
+C:\Users\Ranbir\Documents\Visual Studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\bin\Debug\NBA 2K Downloader.exe
+C:\Users\Ranbir\Documents\Visual Studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\bin\Debug\NBA 2K Downloader.pdb
+C:\Users\Ranbir\Documents\Visual Studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA 2K Downloader.exe
+C:\Users\Ranbir\Documents\Visual Studio 2012\Projects\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA 2K Downloader.pdb
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\bin\Debug\NBA 2K Downloader.exe.config
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA 2K Downloader.exe
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA 2K Downloader.pdb
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\bin\Debug\NBA 2K Downloader.exe
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\bin\Debug\NBA 2K Downloader.pdb
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA 2K Downloader.csprojResolveAssemblyReference.cache
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA_2K_Downloader.Form1.resources
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA_2K_Downloader.Properties.Resources.resources
+C:\Users\Ranbir\Documents\GitHub\360Modding\NBA 2K Downloader\NBA 2K Downloader\obj\Debug\NBA 2K Downloader.csproj.GenerateResource.Cache
