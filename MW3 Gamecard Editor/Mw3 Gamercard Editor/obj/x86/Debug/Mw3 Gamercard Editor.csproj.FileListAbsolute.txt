@@ -1,0 +1,21 @@
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\bin\Debug\Mw3 Gamercard Editor.exe
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\bin\Debug\Mw3 Gamercard Editor.pdb
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3_Gamercard_Editor.Form1.resources
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3_Gamercard_Editor.Form2.resources
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3_Gamercard_Editor.Properties.Resources.resources
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3 Gamercard Editor.exe
+c:\users\noor\documents\visual studio 2010\Projects\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3 Gamercard Editor.pdb
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3 Gamercard Editor.exe
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3 Gamercard Editor.pdb
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3_Gamercard_Editor.Form1.resources
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3_Gamercard_Editor.Form2.resources
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\Mw3_Gamercard_Editor.Properties.Resources.resources
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\bin\Debug\Mw3 Gamercard Editor.exe
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\bin\Debug\Mw3 Gamercard Editor.pdb
+C:\Users\Joe\Desktop\Mw3 Gamercard Editor\Mw3 Gamercard Editor\bin\Debug\DevComponents.DotNetBar2.dll
